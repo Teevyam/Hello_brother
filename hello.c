@@ -8,3 +8,4 @@ this line shows how merging works.
 <div>img src="mycar.jpeg" alt="Hello car na mila"
 style="width:100%;max-width:640px"</div>
 qdkjqbwdqjbuqwlqkdn
+buldak
